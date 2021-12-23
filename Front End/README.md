@@ -14,3 +14,23 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# MediScribe Front-End
+
+Front-End consists of a flutter app .
+
+## Installation
+
+Download the code and run 
+```bash
+flutter pub get
+```
+to download every dependency
+
+## Usage 
+
+After downloading every dependency, connect a device/emulator and run 
+
+```bash
+main.dart
+```
