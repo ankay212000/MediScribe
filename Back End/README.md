@@ -4,7 +4,7 @@ Back-End consists of a flask API and other files used to convert audio to text a
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install necessary dependencies.
 
 ```bash
 pip install -r requirements.txt
