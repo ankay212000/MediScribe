@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453579217757",
+    "project_id": "mediscribe-20f30",
+    "storage_bucket": "mediscribe-20f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453579217757:android:7221a28f55453a58f866b4",
+        "android_client_info": {
+          "package_name": "com.example.speech2text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453579217757-op0odcfmmbu5lt94sq1f7fan6tudh2hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5II7PSSAaAIhmSscTnTGCfU5jVn37j8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453579217757-op0odcfmmbu5lt94sq1f7fan6tudh2hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
